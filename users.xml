@@ -1,0 +1,10 @@
+<data>
+	<user id = 'john'>
+		<ip address = '10.3.3.3'>
+		</ip>
+	</user>
+	<user id = 'tom'>
+		<ip address = '10.3.1.2'>
+		</ip>
+	</user>
+</data>
